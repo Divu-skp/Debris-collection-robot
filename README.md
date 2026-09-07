@@ -3,7 +3,7 @@
 > A computer-vision waste classification system that combines a trained MobileNetV2 classifier, real-time camera inference, Raspberry Pi deployment, and a servo-driven sorting mechanism.
 
 <p align="center">
-    <img src="assets/robot.jpg" alt="Vision-Based Waste Sorting Robot prototype" width="600">
+    <img src="assets/robot.jpeg" alt="Vision-Based Waste Sorting Robot prototype" width="600">
 </p>
 
 <p align="center">
