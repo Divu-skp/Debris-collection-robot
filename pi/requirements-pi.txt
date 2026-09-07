@@ -1,0 +1,6 @@
+# Raspberry Pi inference / camera / GPIO
+numpy
+opencv-python
+tflite-runtime
+picamera2
+RPi.GPIO
