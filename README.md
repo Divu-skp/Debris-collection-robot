@@ -1,4 +1,4 @@
-# Vision-Based Waste Sorting Robot
+# Vision-Guided Autonomous Waste Segregation and Collection Robot
 
 > A computer-vision waste classification system that combines a trained MobileNetV2 classifier, real-time camera inference, Raspberry Pi deployment, and a servo-driven sorting mechanism.
 
